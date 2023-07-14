@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@100;400;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: 1345px;
+    border-radius: 10px;
+    background: #FDFCFC;
+}
+.nav{
+    display: flex;
+    gap: 44px;
+    padding-top: 48px;
+}
+.first{
+    justify-content: start;
+    margin-right:  480px;
+    padding-left:  188px ;
+}
+.section1{
+    display: flex;
+   
+}
+.yoz{
+    padding: 141px 40px 0 188px;
+}
+.yoz h1{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%
+}
+.yoz p{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px; 
+    margin-top: 24px;
+    margin-bottom: 38px;
+}
+.btn{
+    border-radius: 8px;
+    background: #8EADD5;
+    padding: 10px 16px;
+    width: 167px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 16px;
+}
+.rasm{
+    padding-top: 97px;
+}
+.section2 p{
+    color: #667085;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 100%;
+    padding-top: 157px;
+    margin-left: 607px;
+   
+}
+.logo{
+    display: flex;
+    gap: 100px;
+    padding-left: 280px;
+    margin-top: 28px;
+}
+.section3{
+    display: flex;
+}
+.img{
+    padding: 136px 180px 0 188px;
+}
+.yozuv {
+    padding-top:  233px;
+}
+.yozuv h1{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    margin-bottom: 25px;
+}
+.yozuv p{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px;
+    text-transform: capitalize;
+    margin-bottom: 45px;
+}
+.section4{
+    display: flex;
+}
+.yozuv2{
+   padding: 233px 170px 0 188px; 
+}
+.yozuv2 h1{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; 
+    text-transform: capitalize;
+    margin-bottom: 26px;
+}
+.yozuv2 p{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px; 
+    text-transform: capitalize;
+    margin-bottom: 46px;
+}
+.img2{
+    padding-top: 136px;
+}
+.section5{
+    padding: 136px 188px;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    gap: 15px;
+}
+.card1{
+    margin-top: 39px ;
+    width: 345px;
+    height: 334px;
+    border-radius: 20px;
+    background: #F6F6F6;
+   
+}
+.card1 img{
+    padding: 32px 108px 8px ;
+
+}
+.card1 h3{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px; 
+    text-transform: capitalize;
+    margin-bottom: 24px;
+}
+.card1 p{
+    color: #272D38;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 130%;
+    text-transform: capitalize;
+   
+}
+.section6{
+    width: 1000px;
+    border-radius: 20px;
+    background: #F6F6F6;
+    margin:  136px 188px;
+    display: flex;
+    padding-left: 75px;
+}
+.ttt h1{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    padding-top:  100px;
+    padding-left: 90px;
+    margin-bottom: 16px;
+}
+.ttt p{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.5px;
+    margin-bottom: 32px;
+    padding-left: 90px;
+}
+.btn1{
+    margin-left: 90px;
+    border-radius: 8px;
+    background: #8EADD5;
+    padding: 10px 16px;
+    width: 167px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 16px;
+}
+.bbb{
+    display: flex;
+    padding: 103px 183px;
+    text-align: center;
+    gap: 120px;
+}
+.section7{
+    background: #F6F6F6;
+    text-align: center;
+}
+.bbb h2{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27.5px;
+    text-transform: capitalize;
+}
+.bbb p{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 150%; 
+    text-transform: capitalize;
+}
+.end{
+    color: #272D38;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 100%; 
+}
